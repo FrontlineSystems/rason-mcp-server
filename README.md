@@ -1,7 +1,7 @@
 # RASON MCP Server
 
 [![MCPB release](https://img.shields.io/github/v/release/FrontlineSystems/rason-mcp-server?label=MCPB)](https://github.com/FrontlineSystems/rason-mcp-server/releases/latest)
-[![RASON MCP](https://vsmarketplacebadges.dev/version/FrontlineSystems.rason-mcp.svg)](https://marketplace.visualstudio.com/items?itemName=FrontlineSystems.rason-mcp)
+[![RASON MCP (VS Code)](https://vsmarketplacebadges.dev/version/FrontlineSystems.rason-mcp.svg?label=RASON%20MCP%20%28VS%20Code%29)](https://marketplace.visualstudio.com/items?itemName=FrontlineSystems.rason-mcp)
 [![RASON MCP (npm)](https://img.shields.io/npm/v/@frontlinesystems/rason-mcp-server?label=npm)](https://www.npmjs.com/package/@frontlinesystems/rason-mcp-server)
 
 AI-powered platform for decision intelligence: building, analyzing, and solving optimization, simulation, data science, and decision models with RASON.
