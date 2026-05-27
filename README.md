@@ -11,7 +11,7 @@ This repository is the **distribution channel** for the RASON MCP Server — Cla
 
 ### Claude Desktop: drop-in extension
 
-Download [`rason-mcp-server.mcpb`](https://github.com/FrontlineSystems/rason-mcp-server/releases/latest/download/rason-mcp-server.mcpb), then in Claude Desktop open **Settings → Extensions → Advanced Settings → Install Extension** and pick the file. On macOS you can also drag the `.mcpb` onto the app window. The install dialog offers to set a RASON bearer token, only needed to solve models or manage them in the cloud.
+Grab the latest [MCPB release](https://github.com/FrontlineSystems/rason-mcp-server/releases/latest), then in Claude Desktop open **Settings → Extensions → Advanced Settings → Install Extension** and pick the file. On macOS you can also drag the `.mcpb` onto the app window. The install dialog offers to set a RASON bearer token, only needed to solve models or manage them in the cloud.
 
 ### Other clients
 
